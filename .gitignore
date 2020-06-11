@@ -1,0 +1,7 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# ignore entire wip directory as it contains usage data
+/wip/
